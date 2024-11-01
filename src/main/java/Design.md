@@ -167,5 +167,5 @@ Apply **@Transactional** annotations for data integrity:
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd library-management-system
+   
 
