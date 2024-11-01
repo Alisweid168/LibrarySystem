@@ -1,4 +1,4 @@
-package com.example.assessment.librarysystem.bootstrap;
+package com.example.assessment.librarysystem.bootStrap;
 
 import com.example.assessment.librarysystem.Entities.Book;
 import com.example.assessment.librarysystem.Entities.BorrowingRecord;
