@@ -1,8 +1,8 @@
 package com.example.assessment.librarysystem.bootStrap;
 
-import com.example.assessment.librarysystem.Entities.Book;
-import com.example.assessment.librarysystem.Entities.BorrowingRecord;
-import com.example.assessment.librarysystem.Entities.Patron;
+import com.example.assessment.librarysystem.entities.Book;
+import com.example.assessment.librarysystem.entities.BorrowingRecord;
+import com.example.assessment.librarysystem.entities.Patron;
 import com.example.assessment.librarysystem.repository.BookRepository;
 import com.example.assessment.librarysystem.repository.BorrowingRecordRepository;
 import com.example.assessment.librarysystem.repository.PatronRepository;
